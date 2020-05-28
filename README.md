@@ -1,8 +1,6 @@
 # 用cloudflare的workers实现自助创建微软全局子号
-# demo: https://holy-cell-03d7.ur.workers.dev/
+# demo: https://m.ur.workers.dev/
 
-
-# 无需激活码版在 `old` 文件夹中
 
 1 进入 `Azure Active Directory` 新建一个 `app`，获取 `tenant id` 和 `client id`
 ![image.png](https://i.loli.net/2020/01/26/57GcEDYlQFTOMBL.png)
