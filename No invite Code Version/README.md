@@ -17,4 +17,4 @@
 
 
 
-5 复制 `worker.js` 里面的内容到 `cf workers` 里面，填入相应的数据
+5 复制 `Chinese.js / English.js` 里面的内容到 `cloudflare workers` 里面，填入相应的数据
