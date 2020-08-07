@@ -251,7 +251,7 @@ async function handleRequest(request) {
             }
             break;
         default:
-            var resposne = await fetch('https://cdn.jsdelivr.net/gh/zayabighead/msautocreate@master/worker.html');
+            var resposne = await fetch('https://cdn.jsdelivr.net/gh/hong040428/msauto@master/worker.html');
             var html = await resposne.text();
 
             var html_subscriptions = '';
